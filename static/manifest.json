@@ -1,0 +1,13 @@
+{
+  "name": "chrome-extension-boilerplate-ts",
+  "version": "0.0.1",
+  "description": "A boilerplate of project for develop Google Chrome Extension",
+  "manifest_version": 2,
+  "author": "nasustim",
+  "content_scripts": [
+    {
+      "matches": ["http://*/*"],
+      "js": ["bundle.js"]
+    }
+  ]
+}

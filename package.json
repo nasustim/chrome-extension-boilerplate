@@ -1,0 +1,32 @@
+{
+  "name": "chrome-extension-boilerplate-ts",
+  "version": "1.0.0",
+  "description": "A boilerplate of project for develop Google Chrome Extension",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --watch --mode development",
+    "test": "echo \"please make test code.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasustim/chrome-extension-boilerplate-ts.git"
+  },
+  "author": "nasustim",
+  "bugs": {
+    "url": "https://github.com/nasustim/chrome-extension-boilerplate-ts/issues"
+  },
+  "homepage": "https://github.com/nasustim/chrome-extension-boilerplate-ts#readme",
+  "main": "N/A",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.107",
+    "@types/node": "^13.13.5",
+    "copy-webpack-plugin": "^5.1.1",
+    "css-loader": "^3.5.3",
+    "style-loader": "^1.2.1",
+    "ts-loader": "^7.0.3",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
