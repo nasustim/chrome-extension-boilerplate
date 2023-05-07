@@ -35,13 +35,13 @@ module.exports = {
     extensions: ['.js', '.ts', '.json', '.css']
   },
   plugins: [
-    new CopyWebpackPlugin(
-      [
+    new CopyWebpackPlugin({
+      patterns: [
         {
           from: path.join(paths.static, '/manifest.json'),
-          to: paths.dist
+          to: paths.dist,
         }
-      ]
-    )
-  ]
+      ],
+    })
+  ],
 }
