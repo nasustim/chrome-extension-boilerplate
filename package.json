@@ -22,7 +22,7 @@
     "@types/chrome": "0.0.271",
     "@types/node": "18.16.5",
     "copy-webpack-plugin": "11.0.0",
-    "css-loader": "6.7.3",
+    "css-loader": "6.11.0",
     "style-loader": "3.3.4",
     "ts-loader": "9.4.2",
     "typescript": "5.1.6",
