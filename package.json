@@ -24,7 +24,7 @@
     "copy-webpack-plugin": "11.0.0",
     "css-loader": "6.11.0",
     "style-loader": "3.3.4",
-    "ts-loader": "9.5.1",
+    "ts-loader": "9.5.2",
     "typescript": "5.7.3",
     "webpack": "5.97.1",
     "webpack-cli": "5.1.4"
