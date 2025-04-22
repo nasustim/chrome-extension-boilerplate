@@ -19,7 +19,7 @@
   "main": "N/A",
   "license": "MIT",
   "devDependencies": {
-    "@types/chrome": "0.0.315",
+    "@types/chrome": "0.0.316",
     "@types/node": "18.19.86",
     "copy-webpack-plugin": "11.0.0",
     "css-loader": "6.11.0",
