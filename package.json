@@ -23,7 +23,7 @@
     "@types/node": "18.19.130",
     "copy-webpack-plugin": "11.0.0",
     "css-loader": "6.11.0",
-    "style-loader": "3.3.4",
+    "style-loader": "4.0.0",
     "ts-loader": "9.5.4",
     "typescript": "5.9.3",
     "webpack": "5.103.0",
